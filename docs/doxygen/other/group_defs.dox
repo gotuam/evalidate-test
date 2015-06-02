@@ -1,0 +1,7 @@
+/*!
+ * \defgroup block GNU Radio GOUTAM C++ Signal Processing Blocks
+ * \brief All C++ blocks that can be used from the GOUTAM GNU Radio
+ *        module are listed here or in the subcategories below.
+ *
+ */
+
